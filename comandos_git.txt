@@ -1,0 +1,13 @@
+/Comando de configuração
+git config --global user.name "André Gonzaga"
+git config --global user.email "andregonzaga2001@gmail.com"
+gtr config --global core.editor vs
+
+/Comandos de requisacao de informacao 
+git config user.name
+git config user.email
+git config core.editor
+git config --list
+git statuts
+
+senha: uckz2320
